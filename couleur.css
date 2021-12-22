@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+a{ 
+    color: yellowgreen;
+}
+div{
+    text-align: right;
+    font-size: 2em;
+}
+#contenu{
+    text-align: left;
+    background-color: lightgray;
+    font-size: small;
+}
